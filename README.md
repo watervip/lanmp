@@ -1,4 +1,4 @@
-## 一、简介
+## 一、内容简介
 
 1.    `LANMP` 指的是 `Linux` + `Apache` + `Nginx` + `MySQL` + `PHP` 运行环境。
 2.	`LANMP` 一键安装包是用 `Linux Shell` 语言编写的，用于在 `Linux` 系统(`Redhat`/`CentOS`/`Debian`/`Ubuntu`)上一键安装 `LANMP`环境的工具包。
